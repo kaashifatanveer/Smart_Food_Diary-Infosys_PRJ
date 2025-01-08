@@ -10,9 +10,9 @@ Smart Food Diary aims to help users monitor their daily food intake, set nutriti
 
 Features
 
-User registration and login
-Meal logging with image recognition
-Nutritional analysis and breakdown
-Personalized dietary recommendations
-Progress tracking and visualization
-Customizable meal planning
+*User registration and login
+*Meal logging with image recognition
+*Nutritional analysis and breakdown
+*Personalized dietary recommendations
+*Progress tracking and visualization
+*Customizable meal planning
